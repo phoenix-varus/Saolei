@@ -1,2 +1,2 @@
 # saolei
-vb.net作业，扫雷程序
+vb.net作业，扫雷小游戏。
